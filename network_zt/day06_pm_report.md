@@ -128,4 +128,4 @@ CONTAINER ID   IMAGE         COMMAND    CREATED          STATUS                 
 
 - (가) `git status` 를 쳤을 때 빨간 목록에 줄이 몇 개였는지, 그 가운데 `.env` · `.venv` 가 있었는지 적어 주세요.
   - 쓸 내용: ① 줄 수 ② .env · .venv 가 있었는지
-  - 답: 8줄, 둘 다 없었습니다.
+  - 답: 9줄, 둘 다 없었습니다.
